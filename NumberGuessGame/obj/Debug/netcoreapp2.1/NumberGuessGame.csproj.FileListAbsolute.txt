@@ -1,0 +1,10 @@
+C:\Users\konst\source\repos\NumberGuessGame\NumberGuessGame\bin\Debug\netcoreapp2.1\NumberGuessGame.deps.json
+C:\Users\konst\source\repos\NumberGuessGame\NumberGuessGame\bin\Debug\netcoreapp2.1\NumberGuessGame.runtimeconfig.json
+C:\Users\konst\source\repos\NumberGuessGame\NumberGuessGame\bin\Debug\netcoreapp2.1\NumberGuessGame.runtimeconfig.dev.json
+C:\Users\konst\source\repos\NumberGuessGame\NumberGuessGame\bin\Debug\netcoreapp2.1\NumberGuessGame.dll
+C:\Users\konst\source\repos\NumberGuessGame\NumberGuessGame\bin\Debug\netcoreapp2.1\NumberGuessGame.pdb
+C:\Users\konst\source\repos\NumberGuessGame\NumberGuessGame\obj\Debug\netcoreapp2.1\NumberGuessGame.csproj.CoreCompileInputs.cache
+C:\Users\konst\source\repos\NumberGuessGame\NumberGuessGame\obj\Debug\netcoreapp2.1\NumberGuessGame.AssemblyInfoInputs.cache
+C:\Users\konst\source\repos\NumberGuessGame\NumberGuessGame\obj\Debug\netcoreapp2.1\NumberGuessGame.AssemblyInfo.cs
+C:\Users\konst\source\repos\NumberGuessGame\NumberGuessGame\obj\Debug\netcoreapp2.1\NumberGuessGame.dll
+C:\Users\konst\source\repos\NumberGuessGame\NumberGuessGame\obj\Debug\netcoreapp2.1\NumberGuessGame.pdb
